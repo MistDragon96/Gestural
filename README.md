@@ -2,7 +2,6 @@
 
 A Gesture Detection program using mediapipe. Made for Exhibition.
 
-==================
 
 # Requirements
 
